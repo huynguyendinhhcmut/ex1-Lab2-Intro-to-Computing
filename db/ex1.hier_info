@@ -1,0 +1,10 @@
+|ex1
+x => f.IN0
+x => f.IN0
+y => f.IN1
+y => f.IN1
+z => f.IN1
+z => f.IN1
+f <= f.DB_MAX_OUTPUT_PORT_TYPE
+
+
